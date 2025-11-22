@@ -1,0 +1,5 @@
+{
+  "name": "AI Nativity Scene Generator",
+  "description": "An AI-powered application to generate a realistic image of Joseph and Mary's journey to Bethlehem, with customizable composition for adding text.",
+  "requestFramePermissions": []
+}
